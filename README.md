@@ -1,5 +1,5 @@
 # Titanic: Machine Learning from Disaster
-## More information in the link below👇
+## For more information, follow the link below👇
 
 
 
